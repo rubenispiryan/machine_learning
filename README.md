@@ -1,2 +1,2 @@
-# deep_learning
-Projects related to AI, Deep Learning and Neural Networks
+# Machine Learning
+Projects related to AI, ML, Deep Learning and Neural Networks
